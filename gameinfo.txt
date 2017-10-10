@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Prison 731"
-	title 		"Prison 731"
+	game 		"Outpost 731"
+	title 		"Outpost 731"
 	title2		""
 	supportsvr	1
 
