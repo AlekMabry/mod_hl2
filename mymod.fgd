@@ -1,2 +1,7 @@
 @include "base.fgd"
 @include "halflife2.fgd"
+@PointClass base(Targetname) studio("models/gibs/airboat_broken_engine.mdl")= prop_bandsaw : "A bandsaw prop for crafting."
+[
+	input Enable(void) : "Enable Shake"
+	input Disable(void) : "Disable Shake"
+]
